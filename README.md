@@ -1,14 +1,16 @@
 # Ganesh | AI Engineer / Machine Learning Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Applied+Machine+Learning+%7C+Data+Systems;LLM+Fine-Tuning+%7C+OCR+%7C+Database+Intelligence;Python+%7C+FastAPI+%7C+Kubernetes+%7C+Kafka+%7C+Neo4j;Building+AI-powered+tools+that+move+from+notebook+to+production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Applied+Machine+Learning+%7C+Data+Systems;RAG+%7C+LangChain+%7C+LangGraph+%7C+MCP+Integrations;LLM+Fine-Tuning+%7C+OCR+%7C+Database+Intelligence;Python+%7C+FastAPI+%7C+Kubernetes+%7C+Kafka+%7C+Neo4j;Building+AI-powered+tools+that+move+from+notebook+to+production)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-I build AI-powered systems across machine learning, data engineering, document intelligence, and backend automation. My work spans LLM fine-tuning, OCR pipelines, graph analytics, database tooling, and real-time data infrastructure.
+I build AI-powered systems across machine learning, data engineering, document intelligence, and backend automation. My work spans LLM fine-tuning, RAG applications, OCR pipelines, graph analytics, database tooling, and real-time data infrastructure.
 
 I am especially interested in AI Engineer and Machine Learning Engineer roles where models, data pipelines, and production software meet.
+
+My current AI application engineering focus includes LLM fundamentals, retrieval-augmented generation, vector databases, embeddings, LangChain/LangGraph workflows, tool calling, MCP integrations, context management, token optimization, and multi-agent systems.
 
 ---
 
@@ -21,6 +23,18 @@ I am especially interested in AI Engineer and Machine Learning Engineer roles wh
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**LLM / Application Engineering**
+
+![LLM Fundamentals](https://img.shields.io/badge/LLM-Fundamentals-6E40C9?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Vector_DBs_%26_Embeddings-0A7EA4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Workflows-2F855A?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-Function_Interfaces-9A3412?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Integrations-2563EB?style=for-the-badge)
+![Context Management](https://img.shields.io/badge/Context-Management-7C3AED?style=for-the-badge)
+![Token Optimization](https://img.shields.io/badge/Token-Optimization-B45309?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Systems-DC2626?style=for-the-badge)
 
 **Data / Databases**
 
