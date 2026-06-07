@@ -1,4 +1,4 @@
-# Ganesh | AI Engineer
+# Ganesh | AI Engineer / Machine Learning Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=AI+Engineering+%7C+Applied+Machine+Learning+%7C+Data+Systems;LLM+Fine-Tuning+%7C+OCR+%7C+Database+Intelligence;Python+%7C+FastAPI+%7C+Kubernetes+%7C+Kafka+%7C+Neo4j;Building+AI-powered+tools+that+move+from+notebook+to+production)](https://git.io/typing-svg)
 
